@@ -1,0 +1,9 @@
+{
+        "firstName" : "Naruto",
+        "lastName" : "Uzumaki",
+        "preferredName" : "Hokage",
+        "email" : "narutohokage@konoha.com",
+        "city" : "Tokyo",
+        "country" : "Japan",
+        "favoriteHobby" : "Eating ramen"
+}
