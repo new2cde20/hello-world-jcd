@@ -1,11 +1,9 @@
 {
-        "firstName" : "Janeise",
-        "lastName" : "Davis",
-        "preferredName" : "Janeise",
-        "email" : "janeisecdavis@lewisu.edu",
-        "phoneNumber" : "708-368-6563",
-        "city" : "Calumet City",
-        "state" : "IL",
-        "favoriteHobby" : "Volunteering",
-        "seatLocation" : "14"
+        "firstName" : "Naruto",
+        "lastName" : "Uzumaki",
+        "preferredName" : "Naruto",
+        "email" : "naruto_hokage@konoha.com",
+        "city" : "Konoha",
+        "state" : "Leaf Village",
+        "favoriteHobby" : "Eating ramen"
 }
